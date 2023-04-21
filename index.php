@@ -40,7 +40,7 @@
   }
   ?>
 
-<img src="/php-crash/feedback/img/logo.png" class="w-25 mb-3" alt="">
+
 <h2>Feedback</h2>
 <p class="lead text-center">Leave feedback for Example Company</p>
 <form action="" method="POST" class="mt-4 w-75">
