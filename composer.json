@@ -1,0 +1,13 @@
+{
+    "name": "admin/feedbackapp2",
+    "description": "Feedback app",
+    "type": "project",
+    "license": "general",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Feedbackapp2\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
